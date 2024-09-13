@@ -14,8 +14,7 @@ How to Install
 
 	1.	Clone the repository:
 
-git clone https://github.com/your-username/calculator-app.git
-
+git clone https://github.com/mark1usya/Calculator.git
 
 	2.	Open the project in Xcode.
 	3.	Build and run the app on a simulator or your iOS device.
