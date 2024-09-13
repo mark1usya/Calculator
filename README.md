@@ -8,7 +8,6 @@ Features
 
 	•	Basic arithmetic operations: Add, subtract, multiply, and divide.
 	•	Clear display: Shows current input and results clearly.
-	•	Responsive layout: Works seamlessly across different screen sizes.
 	•	Error handling: Prevents crashes from invalid operations (e.g., division by zero).
 
 How to Install
