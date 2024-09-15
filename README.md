@@ -2,7 +2,7 @@
 
 Calculator App
 
-This is a simple and user-friendly calculator app built using Swift. The app provides basic arithmetic functions with an intuitive interface for performing quick calculations. It can handle common operations such as addition, subtraction, multiplication, and division.
+This is a simple and user-friendly calculator app built with Swift,SwiftUI using the MVVM architecture. The app provides basic arithmetic functions with an intuitive interface for performing quick calculations. It can handle common operations such as addition, subtraction, multiplication, and division.
 
 Features
 
