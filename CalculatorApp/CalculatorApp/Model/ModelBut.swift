@@ -1,9 +1,3 @@
-//
-//  ModelBut.swift
-//  CalculatorApp
-//
-//  Created by Mark Pashukevich on 7.08.24.
-//
 
 import SwiftUI
 enum Operation{
