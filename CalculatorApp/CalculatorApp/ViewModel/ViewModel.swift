@@ -1,9 +1,4 @@
-//
-//  ViewModel.swift
-//  CalculatorApp
-//
-//  Created by Mark Pashukevich on 8.08.24.
-//
+
 
 import SwiftUI
 
